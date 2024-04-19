@@ -1,0 +1,22 @@
+{
+    "name":	"Gruvbox",
+    "id": 	"theme-gruvbox",
+    "type": 	"dark",
+    "colors": {
+	"background-normal": "#282828",
+	"background-toolbar": "#3c3836",
+	"background-toolbar-additional": "#504945",
+	"background-primary-dialog-button": "#bdae93",
+	"background-accent-button": "#98971a",
+	"background-tab-underline": "#98971a",
+	"background-notification-popover": "#fabd2f",
+	"background-notification-badge": "#d79921",
+	"toolbar-header-document": "#458588",
+	"toolbar-header-spreadsheet": "#98971a",
+	"toolbar-header-presentation": "#d65d0e",
+	"text-toolbar-header-on-background-document": "#458588",
+	"text-toolbar-header-on-background-spreadsheet": "#98971a",
+	"text-toolbar-header-on-background-presentation": "#d65d0e"
+    }
+}
+                
