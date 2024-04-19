@@ -11,6 +11,7 @@
 	"background-tab-underline": "#98971a",
 	"background-notification-popover": "#fabd2f",
 	"background-notification-badge": "#d79921",
+	"background-loader": "#504945",
 	"toolbar-header-document": "#458588",
 	"toolbar-header-spreadsheet": "#98971a",
 	"toolbar-header-presentation": "#d65d0e",
